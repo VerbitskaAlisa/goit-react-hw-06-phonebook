@@ -18,7 +18,7 @@ export const Input = styled.input`
     height: 36px;
     background-color: transparent;
     border: none;
-    border-bottom: 2px solid rgba(0, 14, 65, 0.4);
+    border-bottom: 3px solid rgba(0, 14, 65, 0.4);
     outline: none;
     color: #000000;
     &:focus {
