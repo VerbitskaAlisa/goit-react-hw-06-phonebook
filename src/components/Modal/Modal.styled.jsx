@@ -55,7 +55,7 @@ export const CloseBtn = styled.button `
     transition: opacity 250ms linear;
 
     &:hover {
-       border: 2px solid red;
+       border: 3px solid red;
     }
 
 }

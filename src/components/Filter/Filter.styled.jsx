@@ -7,7 +7,7 @@ export const Label = styled.label `
     font-size: 24px;
     font-weight: 600;
     line-height: 1.36;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
 `;
 
