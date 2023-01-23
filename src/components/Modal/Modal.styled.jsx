@@ -46,7 +46,7 @@ export const CloseBtn = styled.button `
     padding: 0;
     min-width: 40px;
     height: 40px;
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(0, 0, 0, 0.1);
     background-color: transparent;
     border-radius: 50%;
 
@@ -55,7 +55,7 @@ export const CloseBtn = styled.button `
     transition: opacity 250ms linear;
 
     &:hover {
-       border: 3px solid red;
+       border: 2px solid red;
     }
 
 }
